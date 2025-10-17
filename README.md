@@ -1,3 +1,5 @@
+# NOTE: This theme is no longer compatible with recent versions of Audacity, and thus is now deprecated.
+
 # A Better Dark Mode for Audacity
 Personally I'm not too fond of the dark mode skin that comes bundled with Audacity, so I made a better one.
 
